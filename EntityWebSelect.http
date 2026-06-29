@@ -1,0 +1,6 @@
+@EntityWebSelect_HostAddress = http://localhost:5007
+
+GET {{EntityWebSelect_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
